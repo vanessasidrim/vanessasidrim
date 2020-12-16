@@ -20,7 +20,7 @@ Me chamo Vanessa Sidrim, sou mestranda em ciência da computação pela Unicamp.
 
 Esse é o meu github onde armazeno projetos desenvolvidos durante os meus estudos.
 
-Já passei por diversas áreas da TI, desde o suporte, com passagem pelo desenvolvimento back-end, até a qualidade de software. Atualmente estou explorando a área de cieência de dados e inteligencia artificial.
+Já passei por diversas áreas da TI, desde o suporte, com passagem pelo desenvolvimento back-end, até a qualidade de software. Atualmente estou explorando a área de ciência de dados e inteligencia artificial.
 
 Sou do Cariri do Ceará e louca desesperada por música.
 
